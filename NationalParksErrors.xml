@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks>
+  <Park>
+    <Name>Grand Canyon</Name>
+    <State>Arizona</State>
+    <YearEstablished>ABC</YearEstablished>
+  </Park>
+  <Park>
+    <Name>Yellowstone</Name>
+    <YearEstablished>1872</YearEstablished>
+  </Park>
+</NationalParks>
